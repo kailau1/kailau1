@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Kai 👋
 
-<!--
-**kailau1/kailau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate based in London, moving into software engineering.
 
-Here are some ideas to get you started:
+**What I've built**
+- 🔧 **Automation tools at work:** Python tools against a live GraphQL API that together save ~100 hours a year
+  (internal, so the code isn't public, but I'm happy to talk through how they work)
+- 🤖 **One Percent (Final Year Uni Project)** a journaling and habit app with personalised AI feedback using OpenAI embeddings and chat
+  → [Spring Boot backend](https://github.com/kailau1/fyp_one_percent_spring) · [React Native app](https://github.com/kailau1/fyp_one_percent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I use:** Python · Java · Spring Boot · TypeScript · React / React Native · MongoDB · AWS · Docker
+
+**Currently learning:** data structures & algorithms, test-driven development with pytest, AWS, Claude Code.
