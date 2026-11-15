@@ -10,3 +10,5 @@ Computer Science graduate based in London, moving into software engineering.
 **Tech I use:** Python · Java · Spring Boot · TypeScript · React / React Native · MongoDB · AWS · Docker
 
 **Currently learning:** data structures & algorithms, test-driven development with pytest, AWS, Claude Code.
+
+**Current Projects:** using Claude Code to continue development on my final year project 'one percent' as practice to keep up with AI development. Creating a personal cycling stats dashboard using Strava's API.
